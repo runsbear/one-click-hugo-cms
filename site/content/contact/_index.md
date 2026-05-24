@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Book
+logo: img/catmackennalogo.png
+contact_entries: []
 ---
+# **Title How Bad Do You Haunt Me**
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Twenty-eight-year-old NICU nurse Kaitlin Hartwell has always been good at protecting others—except herself. When she dies in a mysterious fall from her apartment building, she returns as a ghost tethered to the one person she least expects: Sammy Donovan, the soft-spoken kindergarten teacher she bullied as a child.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
+Sammy has spent years avoiding Kaitlin, but now she's the only one who can see her former tormentor's spirit. As the two women are forced to cohabitate—one dead, one very much alive—old wounds resurface alongside an undeniable attraction that death apparently can't kill. Their supernatural bond grows stronger as they investigate Kaitlin's murder, uncovering a century-old curse tied to their town's haunted watch factory.
+
+
+
+But when a magical ritual brings Kaitlin back to life, their relationship faces a new challenge: can their love survive in the real world, where Kaitlin has her old life back and Sammy's neurodivergent needs clash with Kaitlin's high-energy social circle? Especially when the immortal killer who murdered Kaitlin once is determined to finish the job.
