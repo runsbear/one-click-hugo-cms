@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Cat MacKenna
+subtitle: Bad Heroines. Worse Decisions.
 image: img/catmackennalogo.png
 blurb:
   heading: Why Kaldi?
@@ -20,6 +20,5 @@ products:
 values:
   heading: About The Author
   text: Cat MacKenna writes speculative romance about competent, secretly-wild
-    women who get undone by that one specific person and hate themselves for
-    it.
+    women who get undone by that one specific person and hate themselves for it.
 ---
